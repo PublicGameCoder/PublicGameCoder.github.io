@@ -1,0 +1,13 @@
+﻿body {
+	background-color: brown;
+}
+
+a.menuOption {
+	display:box;
+	background-color: aqua;
+}
+
+.menubox {
+    background-color: gold;
+	padding-left: 15px;
+}
