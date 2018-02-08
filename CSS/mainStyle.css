@@ -1,13 +1,76 @@
 ﻿body {
-	background-color: brown;
-}
-
-a.menuOption {
-	display:box;
-	background-color: aqua;
+	background-color: darkslateblue;
+        font-family: serif;
+    font-size: 18px;
 }
 
 .menubox {
-    background-color: gold;
+    background-color: silver;
 	padding-left: 15px;
+    padding-right: 15px;
+}
+
+.about-me {
+    background-color: silver;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 75px;
+    margin-bottom: 10px;
+    font-family: serif;
+    font-size: 24px;
+}
+
+.about-me-text {
+    background-color: silver;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 75px;
+    margin-bottom: 10px;
+    font-family: serif;
+    font-size: 24px;
+}
+
+.selfPicture {
+    width: 25%;
+    max-width: 256px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.selfPicture-text {
+    position: relative;
+    left: auto;
+    color: whitesmoke;
+    font-size: 120%;
+}
+
+.contents {
+    background-color: silver;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 75px;
+    margin-bottom: 30px;
+    font-family: serif;
+    font-size: 18px;
+}
+
+footer {
+    background-color: mediumpurple;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    text-align: left;
 }
