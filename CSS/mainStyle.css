@@ -40,17 +40,22 @@
 }
 
 .selfPicture {
-    width: 25%;
-    max-width: 256px;
-    height: auto;
     border-radius: 50%;
 }
 
-.selfPicture-text {
-    position: relative;
+.selfPicture, .selfPictureBox {
+    position: inherit;
+    width: auto;
+    max-width: 256px;
+    height: auto;
+}
+
+.selfPicture-text{
+    text-align-last: center;
     left: auto;
     color: whitesmoke;
-    font-size: 120%;
+    font-family: monospace;
+    font-size: 100%;
 }
 
 .contents {
