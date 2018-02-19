@@ -1,5 +1,6 @@
 ﻿body {
-	background-color: darkslateblue;
+	background-color: darkcyan;
+    background-size: contain;
         font-family: serif;
     font-size: 18px;
 }
